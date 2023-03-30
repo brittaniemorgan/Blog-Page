@@ -1,1 +1,1 @@
-This is a static implementation of a blog page.
+# This is a static implementation of a blog page.
