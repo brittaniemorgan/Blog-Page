@@ -1,2 +1,1 @@
-# info2180-project1
-This is Project 1 for Brittanie Morgan
+This is a static implementation of a blog page.
